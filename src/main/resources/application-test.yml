@@ -1,2 +1,6 @@
 server:
   port: 9009
+
+
+jenkins:
+  test: test
