@@ -1,2 +1,0 @@
-# learnnote
-record learn note
