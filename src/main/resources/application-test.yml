@@ -1,6 +1,0 @@
-server:
-  port: 9010
-
-
-jenkins:
-  test: test
