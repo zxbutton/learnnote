@@ -4,7 +4,7 @@
 
 ## 第一组
 ### 01
-**[01](di-yi-zu/01/untitled.md)
+* [01](di-yi-zu/01/untitled.md)
 
 * [第一组.01](di-yi-zu/untitled.md)
 
