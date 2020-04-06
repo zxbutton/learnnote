@@ -1,0 +1,2 @@
+config: 
+  info: utilCollect.git/spring-cloud-config/config-dev.yml version=1
